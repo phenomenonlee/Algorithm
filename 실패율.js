@@ -37,8 +37,3 @@ function solution(N, stages) {
 }
 
 console.log(solution(5, [2, 1, 2, 6, 2, 4, 3, 3]));
-
-// 1,2,2,2,3,3,4,6
-setTimeout(() => {
-    console.log("hi");
-}, 3000);
